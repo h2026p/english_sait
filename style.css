@@ -1,0 +1,36 @@
+.cart {
+    background-color: lightblue;
+    border: 3px solid lightyellow;
+    border-radius: 15px;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 400px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column; /* Элементы идут друг под другом */
+    align-items: center; /* Центрирует все дочерние элементы по горизонтали */
+    
+}
+
+a {
+    background: lightgreen;
+    border: 3px solid light yellow;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+mark {
+    color:yellow;
+    background-color: white;
+}
+
+.footer {
+  text-align: center;
+  font-size: 0.8rem;
+  color: #666;
+  border-top: 1px solid #ccc;
+  padding: 8px 0;
+  margin-top: auto;
+
+}
+
